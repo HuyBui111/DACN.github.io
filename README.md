@@ -90,6 +90,6 @@ The Rental Management System is a web-based platform designed to facilitate the 
 This project is licensed under the MIT License.
 
 ---
-**Author:** [Your Name]  
-**Contact:** [Your Email]
+**Author:** [BUI QUOC HUY]  
+**Contact:** [huybui633@gmail.com]
 
